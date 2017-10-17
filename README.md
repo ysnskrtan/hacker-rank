@@ -5,4 +5,4 @@ Hacker Rank Implementations
 https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
 Algorithms
-https://www.hackerrank.com/domains/algorithms/warmup
+https://www.hackerrank.com/domains/algorithms/
