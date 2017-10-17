@@ -11,6 +11,17 @@ import Foundation
 class DayOne{
     
     func test() {
-        print("This is the solution of Day One")
+        
+        let i = 4
+        let d = 4.0
+        let s = "HackerRank "
+        
+        let inputInteger = Int(readLine()!)
+        let inputDouble = Double(readLine()!)
+        let inputString = readLine()!
+        
+        print(i + inputInteger!)
+        print(d + inputDouble!)
+        print(s + inputString)
     }
 }
