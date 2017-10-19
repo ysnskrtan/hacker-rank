@@ -11,6 +11,8 @@
 		FA363B241F95627300CD3D58 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA363B231F95627300CD3D58 /* main.swift */; };
 		FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA363B2A1F95636300CD3D58 /* DayZero.swift */; };
 		FA5821A01F956F8300325935 /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA58219F1F956F8300325935 /* DayOne.swift */; };
+		FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835671F98E9D800AE3182 /* DayFour.swift */; };
+		FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835691F98EA2700AE3182 /* DayFourPerson.swift */; };
 		FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAECA1D01F98E13A00993B7D /* DayThree.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,6 +34,8 @@
 		FA363B231F95627300CD3D58 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FA363B2A1F95636300CD3D58 /* DayZero.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayZero.swift; sourceTree = "<group>"; };
 		FA58219F1F956F8300325935 /* DayOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOne.swift; sourceTree = "<group>"; };
+		FA7835671F98E9D800AE3182 /* DayFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFour.swift; sourceTree = "<group>"; };
+		FA7835691F98EA2700AE3182 /* DayFourPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourPerson.swift; sourceTree = "<group>"; };
 		FAECA1D01F98E13A00993B7D /* DayThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,6 +74,8 @@
 				FA58219F1F956F8300325935 /* DayOne.swift */,
 				FA3631EC1F9777DD00D2DAE6 /* DayTwo.swift */,
 				FAECA1D01F98E13A00993B7D /* DayThree.swift */,
+				FA7835671F98E9D800AE3182 /* DayFour.swift */,
+				FA7835691F98EA2700AE3182 /* DayFourPerson.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -132,10 +138,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */,
 				FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */,
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
 				FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */,
+				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
 				FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
