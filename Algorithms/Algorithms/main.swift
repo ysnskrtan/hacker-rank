@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = SimpleArraySum()
+var test = TheHurdleRace()
 test.test()
