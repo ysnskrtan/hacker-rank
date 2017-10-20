@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = TheHurdleRace()
+var test = TimeConvresion()
 test.test()
