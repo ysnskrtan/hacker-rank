@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FA2468451F9A394100E8BE95 /* TheHurdleRace.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2468441F9A394100E8BE95 /* TheHurdleRace.swift */; };
 		FA2468471F9A438800E8BE95 /* CatsAndAMouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2468461F9A438800E8BE95 /* CatsAndAMouse.swift */; };
+		FA2468491F9A45DD00E8BE95 /* BirthdayCakeCandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2468481F9A45DD00E8BE95 /* BirthdayCakeCandle.swift */; };
 		FA37F9551F9624240016D5D5 /* SolveMeFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA37F9541F9624240016D5D5 /* SolveMeFirst.swift */; };
 		FA37F9581F9625FB0016D5D5 /* SimpleArraySum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA37F9571F9625FB0016D5D5 /* SimpleArraySum.swift */; };
 		FAFB45BB1F96213B007FAE57 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFB45BA1F96213B007FAE57 /* main.swift */; };
@@ -29,6 +30,7 @@
 /* Begin PBXFileReference section */
 		FA2468441F9A394100E8BE95 /* TheHurdleRace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheHurdleRace.swift; sourceTree = "<group>"; };
 		FA2468461F9A438800E8BE95 /* CatsAndAMouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatsAndAMouse.swift; sourceTree = "<group>"; };
+		FA2468481F9A45DD00E8BE95 /* BirthdayCakeCandle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayCakeCandle.swift; sourceTree = "<group>"; };
 		FA37F9541F9624240016D5D5 /* SolveMeFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveMeFirst.swift; sourceTree = "<group>"; };
 		FA37F9571F9625FB0016D5D5 /* SimpleArraySum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleArraySum.swift; sourceTree = "<group>"; };
 		FAFB45B71F96213B007FAE57 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,6 +62,7 @@
 			children = (
 				FA37F9541F9624240016D5D5 /* SolveMeFirst.swift */,
 				FA37F9571F9625FB0016D5D5 /* SimpleArraySum.swift */,
+				FA2468481F9A45DD00E8BE95 /* BirthdayCakeCandle.swift */,
 			);
 			path = WarmUp;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA37F9551F9624240016D5D5 /* SolveMeFirst.swift in Sources */,
+				FA2468491F9A45DD00E8BE95 /* BirthdayCakeCandle.swift in Sources */,
 				FA37F9581F9625FB0016D5D5 /* SimpleArraySum.swift in Sources */,
 				FA2468451F9A394100E8BE95 /* TheHurdleRace.swift in Sources */,
 				FA2468471F9A438800E8BE95 /* CatsAndAMouse.swift in Sources */,
