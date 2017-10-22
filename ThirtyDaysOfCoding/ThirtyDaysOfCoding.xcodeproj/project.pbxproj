@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FA0531331F9D4C6D00312FF7 /* DaySix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0531321F9D4C6C00312FF7 /* DaySix.swift */; };
+		FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0531341F9D577C00312FF7 /* DaySeven.swift */; };
 		FA2A3C0A1F9A34A900AFD44E /* DayFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2A3C091F9A34A900AFD44E /* DayFive.swift */; };
 		FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3631EC1F9777DD00D2DAE6 /* DayTwo.swift */; };
 		FA363B241F95627300CD3D58 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA363B231F95627300CD3D58 /* main.swift */; };
@@ -32,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		FA0531321F9D4C6C00312FF7 /* DaySix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySix.swift; sourceTree = "<group>"; };
+		FA0531341F9D577C00312FF7 /* DaySeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySeven.swift; sourceTree = "<group>"; };
 		FA2A3C091F9A34A900AFD44E /* DayFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFive.swift; sourceTree = "<group>"; };
 		FA3631EC1F9777DD00D2DAE6 /* DayTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwo.swift; sourceTree = "<group>"; };
 		FA363B201F95627300CD3D58 /* ThirtyDaysOfCoding */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ThirtyDaysOfCoding; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -82,6 +84,7 @@
 				FA7835691F98EA2700AE3182 /* DayFourPerson.swift */,
 				FA2A3C091F9A34A900AFD44E /* DayFive.swift */,
 				FA0531321F9D4C6C00312FF7 /* DaySix.swift */,
+				FA0531341F9D577C00312FF7 /* DaySeven.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
 				FA0531331F9D4C6D00312FF7 /* DaySix.swift in Sources */,
+				FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */,
 				FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */,
 				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
 				FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */,
