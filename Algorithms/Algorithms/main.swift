@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = TimeConvresion()
+var test = CompareTheTriplets()
 test.test()
