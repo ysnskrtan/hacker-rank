@@ -10,6 +10,8 @@ import Foundation
 
 class SimpleArraySum {
     
+    // This class solves the very big sum problem
+    
     func test() {
         
         // number of elements question asks but not used below
