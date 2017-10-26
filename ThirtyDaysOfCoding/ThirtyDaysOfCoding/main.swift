@@ -9,6 +9,6 @@
 import Foundation
 
 // You can test code with changing the object class of test variable
-let test = DayEight()
+let test = DayNine()
 
 test.test()

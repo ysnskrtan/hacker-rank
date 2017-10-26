@@ -18,6 +18,7 @@
 		FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835691F98EA2700AE3182 /* DayFourPerson.swift */; };
 		FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD6B9E81FA129CB006E36F0 /* DayEight.swift */; };
 		FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAECA1D01F98E13A00993B7D /* DayThree.swift */; };
+		FAFE5D981FA22AC1008E9956 /* DayNine.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFE5D971FA22AC1008E9956 /* DayNine.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		FA7835691F98EA2700AE3182 /* DayFourPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourPerson.swift; sourceTree = "<group>"; };
 		FAD6B9E81FA129CB006E36F0 /* DayEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEight.swift; sourceTree = "<group>"; };
 		FAECA1D01F98E13A00993B7D /* DayThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThree.swift; sourceTree = "<group>"; };
+		FAFE5D971FA22AC1008E9956 /* DayNine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayNine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				FA0531321F9D4C6C00312FF7 /* DaySix.swift */,
 				FA0531341F9D577C00312FF7 /* DaySeven.swift */,
 				FAD6B9E81FA129CB006E36F0 /* DayEight.swift */,
+				FAFE5D971FA22AC1008E9956 /* DayNine.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */,
 				FA0531331F9D4C6D00312FF7 /* DaySix.swift in Sources */,
 				FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */,
+				FAFE5D981FA22AC1008E9956 /* DayNine.swift in Sources */,
 				FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */,
 				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
 				FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */,
