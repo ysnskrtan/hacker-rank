@@ -16,6 +16,7 @@
 		FA5821A01F956F8300325935 /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA58219F1F956F8300325935 /* DayOne.swift */; };
 		FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835671F98E9D800AE3182 /* DayFour.swift */; };
 		FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835691F98EA2700AE3182 /* DayFourPerson.swift */; };
+		FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD6B9E81FA129CB006E36F0 /* DayEight.swift */; };
 		FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAECA1D01F98E13A00993B7D /* DayThree.swift */; };
 /* End PBXBuildFile section */
 
@@ -42,6 +43,7 @@
 		FA58219F1F956F8300325935 /* DayOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOne.swift; sourceTree = "<group>"; };
 		FA7835671F98E9D800AE3182 /* DayFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFour.swift; sourceTree = "<group>"; };
 		FA7835691F98EA2700AE3182 /* DayFourPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourPerson.swift; sourceTree = "<group>"; };
+		FAD6B9E81FA129CB006E36F0 /* DayEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEight.swift; sourceTree = "<group>"; };
 		FAECA1D01F98E13A00993B7D /* DayThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -85,6 +87,7 @@
 				FA2A3C091F9A34A900AFD44E /* DayFive.swift */,
 				FA0531321F9D4C6C00312FF7 /* DaySix.swift */,
 				FA0531341F9D577C00312FF7 /* DaySeven.swift */,
+				FAD6B9E81FA129CB006E36F0 /* DayEight.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */,
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
+				FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */,
 				FA0531331F9D4C6D00312FF7 /* DaySix.swift in Sources */,
 				FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */,
 				FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */,
