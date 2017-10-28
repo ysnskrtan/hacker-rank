@@ -13,7 +13,7 @@ class DaySeven {
     func test() {
         
         // number of elements
-        let n = Int(readLine()!)!
+        let _ = Int(readLine()!)!
         
         // read array
         let arr = readLine()!.components(separatedBy: " ").map{ Int($0)! }
