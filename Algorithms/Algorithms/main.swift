@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = CompareTheTriplets()
+var test = DiagonalDifference()
 test.test()
