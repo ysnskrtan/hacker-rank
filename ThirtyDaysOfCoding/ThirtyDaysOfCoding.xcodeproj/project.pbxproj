@@ -16,6 +16,9 @@
 		FA5821A01F956F8300325935 /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA58219F1F956F8300325935 /* DayOne.swift */; };
 		FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835671F98E9D800AE3182 /* DayFour.swift */; };
 		FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835691F98EA2700AE3182 /* DayFourPerson.swift */; };
+		FAA4A7B31FA5C95C007A38C1 /* DayTwelwe.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */; };
+		FAA4A7B71FA5CA3D007A38C1 /* DayTwelwePerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */; };
+		FAA4A7B91FA5CD51007A38C1 /* DayTwelweStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */; };
 		FAA831391FA3F5B300DDBCA0 /* DayEleven.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */; };
 		FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */; };
 		FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD6B9E81FA129CB006E36F0 /* DayEight.swift */; };
@@ -46,6 +49,9 @@
 		FA58219F1F956F8300325935 /* DayOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOne.swift; sourceTree = "<group>"; };
 		FA7835671F98E9D800AE3182 /* DayFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFour.swift; sourceTree = "<group>"; };
 		FA7835691F98EA2700AE3182 /* DayFourPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourPerson.swift; sourceTree = "<group>"; };
+		FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelwe.swift; sourceTree = "<group>"; };
+		FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelwePerson.swift; sourceTree = "<group>"; };
+		FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelweStudent.swift; sourceTree = "<group>"; };
 		FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEleven.swift; sourceTree = "<group>"; };
 		FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTen.swift; sourceTree = "<group>"; };
 		FAD6B9E81FA129CB006E36F0 /* DayEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEight.swift; sourceTree = "<group>"; };
@@ -95,8 +101,11 @@
 				FA0531341F9D577C00312FF7 /* DaySeven.swift */,
 				FAD6B9E81FA129CB006E36F0 /* DayEight.swift */,
 				FAFE5D971FA22AC1008E9956 /* DayNine.swift */,
-				FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */,
 				FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */,
+				FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */,
+				FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */,
+				FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */,
+				FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -161,7 +170,9 @@
 			files = (
 				FAA831391FA3F5B300DDBCA0 /* DayEleven.swift in Sources */,
 				FA2A3C0A1F9A34A900AFD44E /* DayFive.swift in Sources */,
+				FAA4A7B31FA5C95C007A38C1 /* DayTwelwe.swift in Sources */,
 				FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */,
+				FAA4A7B91FA5CD51007A38C1 /* DayTwelweStudent.swift in Sources */,
 				FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */,
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
@@ -171,6 +182,7 @@
 				FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */,
 				FAFE5D981FA22AC1008E9956 /* DayNine.swift in Sources */,
 				FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */,
+				FAA4A7B71FA5CA3D007A38C1 /* DayTwelwePerson.swift in Sources */,
 				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
 				FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */,
 			);
