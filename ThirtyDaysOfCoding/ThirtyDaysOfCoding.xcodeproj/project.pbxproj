@@ -19,6 +19,9 @@
 		FAA4A7B31FA5C95C007A38C1 /* DayTwelwe.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */; };
 		FAA4A7B71FA5CA3D007A38C1 /* DayTwelwePerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */; };
 		FAA4A7B91FA5CD51007A38C1 /* DayTwelweStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */; };
+		FAA4A7BB1FA5D218007A38C1 /* DayThirteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7BA1FA5D218007A38C1 /* DayThirteen.swift */; };
+		FAA4A7BD1FA5D22A007A38C1 /* DayThirteenBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7BC1FA5D22A007A38C1 /* DayThirteenBook.swift */; };
+		FAA4A7BF1FA5D245007A38C1 /* DayThirteenMyBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7BE1FA5D245007A38C1 /* DayThirteenMyBook.swift */; };
 		FAA831391FA3F5B300DDBCA0 /* DayEleven.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */; };
 		FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */; };
 		FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD6B9E81FA129CB006E36F0 /* DayEight.swift */; };
@@ -52,6 +55,9 @@
 		FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelwe.swift; sourceTree = "<group>"; };
 		FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelwePerson.swift; sourceTree = "<group>"; };
 		FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelweStudent.swift; sourceTree = "<group>"; };
+		FAA4A7BA1FA5D218007A38C1 /* DayThirteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThirteen.swift; sourceTree = "<group>"; };
+		FAA4A7BC1FA5D22A007A38C1 /* DayThirteenBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThirteenBook.swift; sourceTree = "<group>"; };
+		FAA4A7BE1FA5D245007A38C1 /* DayThirteenMyBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThirteenMyBook.swift; sourceTree = "<group>"; };
 		FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEleven.swift; sourceTree = "<group>"; };
 		FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTen.swift; sourceTree = "<group>"; };
 		FAD6B9E81FA129CB006E36F0 /* DayEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEight.swift; sourceTree = "<group>"; };
@@ -106,6 +112,9 @@
 				FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */,
 				FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */,
 				FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */,
+				FAA4A7BA1FA5D218007A38C1 /* DayThirteen.swift */,
+				FAA4A7BC1FA5D22A007A38C1 /* DayThirteenBook.swift */,
+				FAA4A7BE1FA5D245007A38C1 /* DayThirteenMyBook.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -172,7 +181,10 @@
 				FA2A3C0A1F9A34A900AFD44E /* DayFive.swift in Sources */,
 				FAA4A7B31FA5C95C007A38C1 /* DayTwelwe.swift in Sources */,
 				FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */,
+				FAA4A7BF1FA5D245007A38C1 /* DayThirteenMyBook.swift in Sources */,
 				FAA4A7B91FA5CD51007A38C1 /* DayTwelweStudent.swift in Sources */,
+				FAA4A7BD1FA5D22A007A38C1 /* DayThirteenBook.swift in Sources */,
+				FAA4A7BB1FA5D218007A38C1 /* DayThirteen.swift in Sources */,
 				FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */,
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
