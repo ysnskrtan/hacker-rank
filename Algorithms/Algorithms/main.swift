@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = Staircase()
+var test = DayOfTheProgrammer()
 test.test()
