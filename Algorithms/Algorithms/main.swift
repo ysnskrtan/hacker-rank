@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = DiagonalDifference()
+var test = Staircase()
 test.test()

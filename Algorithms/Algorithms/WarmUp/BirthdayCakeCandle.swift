@@ -12,7 +12,7 @@ class BirthdayCankeCandle {
     
     func test() {
         
-        let n = Int(readLine()!)!
+        let _ = Int(readLine()!)!
         
         let arr = readLine()!.components(separatedBy: " ").map{ Int($0)! }
         
