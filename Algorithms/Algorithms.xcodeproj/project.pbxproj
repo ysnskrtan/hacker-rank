@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		FA179D2B1F9A4B5B006B4055 /* TimeConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA179D2A1F9A4B5B006B4055 /* TimeConversion.swift */; };
+		FA1AD0401FA66D96000349BC /* Grading.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA1AD03F1FA66D96000349BC /* Grading.swift */; };
 		FA2468451F9A394100E8BE95 /* TheHurdleRace.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2468441F9A394100E8BE95 /* TheHurdleRace.swift */; };
 		FA2468471F9A438800E8BE95 /* CatsAndAMouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2468461F9A438800E8BE95 /* CatsAndAMouse.swift */; };
 		FA2468491F9A45DD00E8BE95 /* BirthdayCakeCandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2468481F9A45DD00E8BE95 /* BirthdayCakeCandle.swift */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		FA179D2A1F9A4B5B006B4055 /* TimeConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeConversion.swift; sourceTree = "<group>"; };
+		FA1AD03F1FA66D96000349BC /* Grading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grading.swift; sourceTree = "<group>"; };
 		FA2468441F9A394100E8BE95 /* TheHurdleRace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheHurdleRace.swift; sourceTree = "<group>"; };
 		FA2468461F9A438800E8BE95 /* CatsAndAMouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatsAndAMouse.swift; sourceTree = "<group>"; };
 		FA2468481F9A45DD00E8BE95 /* BirthdayCakeCandle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirthdayCakeCandle.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				FA2468441F9A394100E8BE95 /* TheHurdleRace.swift */,
 				FA2468461F9A438800E8BE95 /* CatsAndAMouse.swift */,
 				FAC3A4E91FA664A4001C9E69 /* DayOfTheProgrammer.swift */,
+				FA1AD03F1FA66D96000349BC /* Grading.swift */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				FA37F9581F9625FB0016D5D5 /* SimpleArraySum.swift in Sources */,
 				FA2468451F9A394100E8BE95 /* TheHurdleRace.swift in Sources */,
 				FAC3A4E41FA6598C001C9E69 /* DiagonalDifference.swift in Sources */,
+				FA1AD0401FA66D96000349BC /* Grading.swift in Sources */,
 				FAC3A4E21FA656F4001C9E69 /* PlusMinus.swift in Sources */,
 				FA2468471F9A438800E8BE95 /* CatsAndAMouse.swift in Sources */,
 				FAC3A4E81FA660CB001C9E69 /* Staircase.swift in Sources */,
