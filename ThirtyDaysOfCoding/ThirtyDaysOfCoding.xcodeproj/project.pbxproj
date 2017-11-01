@@ -30,6 +30,7 @@
 		FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */; };
 		FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD6B9E81FA129CB006E36F0 /* DayEight.swift */; };
 		FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAECA1D01F98E13A00993B7D /* DayThree.swift */; };
+		FAF899151FAA7170008D8D79 /* DaySixteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF899141FAA7170008D8D79 /* DaySixteen.swift */; };
 		FAFE5D981FA22AC1008E9956 /* DayNine.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFE5D971FA22AC1008E9956 /* DayNine.swift */; };
 /* End PBXBuildFile section */
 
@@ -70,6 +71,7 @@
 		FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTen.swift; sourceTree = "<group>"; };
 		FAD6B9E81FA129CB006E36F0 /* DayEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEight.swift; sourceTree = "<group>"; };
 		FAECA1D01F98E13A00993B7D /* DayThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThree.swift; sourceTree = "<group>"; };
+		FAF899141FAA7170008D8D79 /* DaySixteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySixteen.swift; sourceTree = "<group>"; };
 		FAFE5D971FA22AC1008E9956 /* DayNine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayNine.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -127,6 +129,7 @@
 				FAA4A7C21FA5D864007A38C1 /* DayFourteenDifference.swift */,
 				FA469A801FA8A4290001F2A4 /* DayFifteen.swift */,
 				FA469A821FA8A47B0001F2A4 /* DayFifteenNode.swift */,
+				FAF899141FAA7170008D8D79 /* DaySixteen.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				FAA4A7C31FA5D864007A38C1 /* DayFourteenDifference.swift in Sources */,
 				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
 				FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */,
+				FAF899151FAA7170008D8D79 /* DaySixteen.swift in Sources */,
 				FA469A811FA8A4290001F2A4 /* DayFifteen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
