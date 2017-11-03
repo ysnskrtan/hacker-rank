@@ -22,6 +22,8 @@
 		FA5821A01F956F8300325935 /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA58219F1F956F8300325935 /* DayOne.swift */; };
 		FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835671F98E9D800AE3182 /* DayFour.swift */; };
 		FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835691F98EA2700AE3182 /* DayFourPerson.swift */; };
+		FA8C13DC1FACA58000D80381 /* DayNineteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8C13DB1FACA58000D80381 /* DayNineteen.swift */; };
+		FA8C13DE1FACA60300D80381 /* DayNineteenCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8C13DD1FACA60300D80381 /* DayNineteenCalculator.swift */; };
 		FAA4A7B31FA5C95C007A38C1 /* DayTwelwe.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */; };
 		FAA4A7B71FA5CA3D007A38C1 /* DayTwelwePerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */; };
 		FAA4A7B91FA5CD51007A38C1 /* DayTwelweStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */; };
@@ -67,6 +69,8 @@
 		FA58219F1F956F8300325935 /* DayOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOne.swift; sourceTree = "<group>"; };
 		FA7835671F98E9D800AE3182 /* DayFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFour.swift; sourceTree = "<group>"; };
 		FA7835691F98EA2700AE3182 /* DayFourPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourPerson.swift; sourceTree = "<group>"; };
+		FA8C13DB1FACA58000D80381 /* DayNineteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayNineteen.swift; sourceTree = "<group>"; };
+		FA8C13DD1FACA60300D80381 /* DayNineteenCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayNineteenCalculator.swift; sourceTree = "<group>"; };
 		FAA4A7B21FA5C95C007A38C1 /* DayTwelwe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelwe.swift; sourceTree = "<group>"; };
 		FAA4A7B61FA5CA3D007A38C1 /* DayTwelwePerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelwePerson.swift; sourceTree = "<group>"; };
 		FAA4A7B81FA5CD51007A38C1 /* DayTwelweStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwelweStudent.swift; sourceTree = "<group>"; };
@@ -142,6 +146,8 @@
 				FA2707C31FACA05A0037D399 /* DaySeventeenCalculator.swift */,
 				FA2707C51FACA41E0037D399 /* DayEighteen.swift */,
 				FA2707C71FACA43E0037D399 /* DayEighteenSolution.swift */,
+				FA8C13DB1FACA58000D80381 /* DayNineteen.swift */,
+				FA8C13DD1FACA60300D80381 /* DayNineteenCalculator.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -218,6 +224,7 @@
 				FAA4A7BB1FA5D218007A38C1 /* DayThirteen.swift in Sources */,
 				FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */,
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
+				FA8C13DC1FACA58000D80381 /* DayNineteen.swift in Sources */,
 				FA2707C21FACA04C0037D399 /* DaySeventeen.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
 				FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */,
@@ -230,6 +237,7 @@
 				FAA4A7B71FA5CA3D007A38C1 /* DayTwelwePerson.swift in Sources */,
 				FAA4A7C31FA5D864007A38C1 /* DayFourteenDifference.swift in Sources */,
 				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
+				FA8C13DE1FACA60300D80381 /* DayNineteenCalculator.swift in Sources */,
 				FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */,
 				FAF899151FAA7170008D8D79 /* DaySixteen.swift in Sources */,
 				FA469A811FA8A4290001F2A4 /* DayFifteen.swift in Sources */,
