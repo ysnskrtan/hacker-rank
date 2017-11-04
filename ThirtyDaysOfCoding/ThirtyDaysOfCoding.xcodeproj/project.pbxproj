@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FA0531331F9D4C6D00312FF7 /* DaySix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0531321F9D4C6C00312FF7 /* DaySix.swift */; };
 		FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA0531341F9D577C00312FF7 /* DaySeven.swift */; };
+		FA17EF4C1FADA58400E0E8A3 /* DayTwenty.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA17EF4B1FADA58400E0E8A3 /* DayTwenty.swift */; };
 		FA2707C21FACA04C0037D399 /* DaySeventeen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2707C11FACA04C0037D399 /* DaySeventeen.swift */; };
 		FA2707C41FACA05A0037D399 /* DaySeventeenCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2707C31FACA05A0037D399 /* DaySeventeenCalculator.swift */; };
 		FA2707C61FACA41E0037D399 /* DayEighteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2707C51FACA41E0037D399 /* DayEighteen.swift */; };
@@ -55,6 +56,7 @@
 /* Begin PBXFileReference section */
 		FA0531321F9D4C6C00312FF7 /* DaySix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySix.swift; sourceTree = "<group>"; };
 		FA0531341F9D577C00312FF7 /* DaySeven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySeven.swift; sourceTree = "<group>"; };
+		FA17EF4B1FADA58400E0E8A3 /* DayTwenty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwenty.swift; sourceTree = "<group>"; };
 		FA2707C11FACA04C0037D399 /* DaySeventeen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySeventeen.swift; sourceTree = "<group>"; };
 		FA2707C31FACA05A0037D399 /* DaySeventeenCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySeventeenCalculator.swift; sourceTree = "<group>"; };
 		FA2707C51FACA41E0037D399 /* DayEighteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEighteen.swift; sourceTree = "<group>"; };
@@ -148,6 +150,7 @@
 				FA2707C71FACA43E0037D399 /* DayEighteenSolution.swift */,
 				FA8C13DB1FACA58000D80381 /* DayNineteen.swift */,
 				FA8C13DD1FACA60300D80381 /* DayNineteenCalculator.swift */,
+				FA17EF4B1FADA58400E0E8A3 /* DayTwenty.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
 				FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */,
 				FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */,
+				FA17EF4C1FADA58400E0E8A3 /* DayTwenty.swift in Sources */,
 				FA0531331F9D4C6D00312FF7 /* DaySix.swift in Sources */,
 				FA0531351F9D577C00312FF7 /* DaySeven.swift in Sources */,
 				FA2707C41FACA05A0037D399 /* DaySeventeenCalculator.swift in Sources */,

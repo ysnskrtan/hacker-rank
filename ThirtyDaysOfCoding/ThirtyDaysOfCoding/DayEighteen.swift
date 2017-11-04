@@ -14,7 +14,7 @@ class DayEighteen {
         let s = readLine()!
         
         // create the Solution class object p.
-        let obj = Solution()
+        let obj = DayEighteenSolution()
         
         // push/enqueue all the characters of string s to stack.
         for c in s.characters {
