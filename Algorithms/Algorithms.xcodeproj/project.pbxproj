@@ -20,6 +20,7 @@
 		FAC3A4E61FA65EE5001C9E69 /* MiniMaxSum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC3A4E51FA65EE5001C9E69 /* MiniMaxSum.swift */; };
 		FAC3A4E81FA660CB001C9E69 /* Staircase.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC3A4E71FA660CB001C9E69 /* Staircase.swift */; };
 		FAC3A4EA1FA664A4001C9E69 /* DayOfTheProgrammer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC3A4E91FA664A4001C9E69 /* DayOfTheProgrammer.swift */; };
+		FAF7AFDB1FAF0EE2002D5C49 /* AppleAndOrange.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF7AFDA1FAF0EE2002D5C49 /* AppleAndOrange.swift */; };
 		FAFB45BB1F96213B007FAE57 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAFB45BA1F96213B007FAE57 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		FAC3A4E51FA65EE5001C9E69 /* MiniMaxSum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniMaxSum.swift; sourceTree = "<group>"; };
 		FAC3A4E71FA660CB001C9E69 /* Staircase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Staircase.swift; sourceTree = "<group>"; };
 		FAC3A4E91FA664A4001C9E69 /* DayOfTheProgrammer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOfTheProgrammer.swift; sourceTree = "<group>"; };
+		FAF7AFDA1FAF0EE2002D5C49 /* AppleAndOrange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleAndOrange.swift; sourceTree = "<group>"; };
 		FAFB45B71F96213B007FAE57 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAFB45BA1F96213B007FAE57 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,6 +73,7 @@
 				FA2468461F9A438800E8BE95 /* CatsAndAMouse.swift */,
 				FAC3A4E91FA664A4001C9E69 /* DayOfTheProgrammer.swift */,
 				FA1AD03F1FA66D96000349BC /* Grading.swift */,
+				FAF7AFDA1FAF0EE2002D5C49 /* AppleAndOrange.swift */,
 			);
 			path = Implementation;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FAF7AFDB1FAF0EE2002D5C49 /* AppleAndOrange.swift in Sources */,
 				FAC3A4E61FA65EE5001C9E69 /* MiniMaxSum.swift in Sources */,
 				FA37F9551F9624240016D5D5 /* SolveMeFirst.swift in Sources */,
 				FA2468491F9A45DD00E8BE95 /* BirthdayCakeCandle.swift in Sources */,

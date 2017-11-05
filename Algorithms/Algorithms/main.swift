@@ -8,5 +8,5 @@
 
 import Foundation
 
-var test = DayOfTheProgrammer()
+var test = AppleAndOrange()
 test.test()
