@@ -36,6 +36,12 @@
 		FAA4A7C31FA5D864007A38C1 /* DayFourteenDifference.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA4A7C21FA5D864007A38C1 /* DayFourteenDifference.swift */; };
 		FAA831391FA3F5B300DDBCA0 /* DayEleven.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */; };
 		FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */; };
+		FABF76011FB1A96F0051827A /* DayTwentyTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABF76001FB1A96F0051827A /* DayTwentyTwo.swift */; };
+		FABF76031FB1A97C0051827A /* DayTwentyTwoNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABF76021FB1A97C0051827A /* DayTwentyTwoNode.swift */; };
+		FABF76051FB1A9C10051827A /* DayTwentyTwoTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABF76041FB1A9C10051827A /* DayTwentyTwoTree.swift */; };
+		FABF76071FB1AC4C0051827A /* DayTwentyThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABF76061FB1AC4C0051827A /* DayTwentyThree.swift */; };
+		FABF76091FB1AC590051827A /* DayTwentyThreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABF76081FB1AC590051827A /* DayTwentyThreeNode.swift */; };
+		FABF760B1FB1AC6B0051827A /* DayTwentyThreeTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABF760A1FB1AC6B0051827A /* DayTwentyThreeTree.swift */; };
 		FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD6B9E81FA129CB006E36F0 /* DayEight.swift */; };
 		FAECA1D11F98E13A00993B7D /* DayThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAECA1D01F98E13A00993B7D /* DayThree.swift */; };
 		FAF899151FAA7170008D8D79 /* DaySixteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF899141FAA7170008D8D79 /* DaySixteen.swift */; };
@@ -85,6 +91,12 @@
 		FAA4A7C21FA5D864007A38C1 /* DayFourteenDifference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourteenDifference.swift; sourceTree = "<group>"; };
 		FAA831381FA3F5B300DDBCA0 /* DayEleven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEleven.swift; sourceTree = "<group>"; };
 		FAA8313A1FA402DF00DDBCA0 /* DayTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTen.swift; sourceTree = "<group>"; };
+		FABF76001FB1A96F0051827A /* DayTwentyTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyTwo.swift; sourceTree = "<group>"; };
+		FABF76021FB1A97C0051827A /* DayTwentyTwoNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyTwoNode.swift; sourceTree = "<group>"; };
+		FABF76041FB1A9C10051827A /* DayTwentyTwoTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyTwoTree.swift; sourceTree = "<group>"; };
+		FABF76061FB1AC4C0051827A /* DayTwentyThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyThree.swift; sourceTree = "<group>"; };
+		FABF76081FB1AC590051827A /* DayTwentyThreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyThreeNode.swift; sourceTree = "<group>"; };
+		FABF760A1FB1AC6B0051827A /* DayTwentyThreeTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyThreeTree.swift; sourceTree = "<group>"; };
 		FAD6B9E81FA129CB006E36F0 /* DayEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayEight.swift; sourceTree = "<group>"; };
 		FAECA1D01F98E13A00993B7D /* DayThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayThree.swift; sourceTree = "<group>"; };
 		FAF899141FAA7170008D8D79 /* DaySixteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DaySixteen.swift; sourceTree = "<group>"; };
@@ -154,6 +166,12 @@
 				FA8C13DD1FACA60300D80381 /* DayNineteenCalculator.swift */,
 				FA17EF4B1FADA58400E0E8A3 /* DayTwenty.swift */,
 				FA24DEA31FAF0AE400AD22DB /* DayTwentyOne.swift */,
+				FABF76001FB1A96F0051827A /* DayTwentyTwo.swift */,
+				FABF76021FB1A97C0051827A /* DayTwentyTwoNode.swift */,
+				FABF76041FB1A9C10051827A /* DayTwentyTwoTree.swift */,
+				FABF76061FB1AC4C0051827A /* DayTwentyThree.swift */,
+				FABF76081FB1AC590051827A /* DayTwentyThreeNode.swift */,
+				FABF760A1FB1AC6B0051827A /* DayTwentyThreeTree.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -220,11 +238,14 @@
 				FAA831391FA3F5B300DDBCA0 /* DayEleven.swift in Sources */,
 				FA2A3C0A1F9A34A900AFD44E /* DayFive.swift in Sources */,
 				FA2707C81FACA43E0037D399 /* DayEighteenSolution.swift in Sources */,
+				FABF76031FB1A97C0051827A /* DayTwentyTwoNode.swift in Sources */,
 				FA2707C61FACA41E0037D399 /* DayEighteen.swift in Sources */,
 				FAA4A7B31FA5C95C007A38C1 /* DayTwelwe.swift in Sources */,
 				FA469A831FA8A47B0001F2A4 /* DayFifteenNode.swift in Sources */,
 				FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */,
+				FABF760B1FB1AC6B0051827A /* DayTwentyThreeTree.swift in Sources */,
 				FAA4A7BF1FA5D245007A38C1 /* DayThirteenMyBook.swift in Sources */,
+				FABF76091FB1AC590051827A /* DayTwentyThreeNode.swift in Sources */,
 				FAA4A7B91FA5CD51007A38C1 /* DayTwelweStudent.swift in Sources */,
 				FAA4A7BD1FA5D22A007A38C1 /* DayThirteenBook.swift in Sources */,
 				FAA4A7BB1FA5D218007A38C1 /* DayThirteen.swift in Sources */,
@@ -233,7 +254,9 @@
 				FA8C13DC1FACA58000D80381 /* DayNineteen.swift in Sources */,
 				FA2707C21FACA04C0037D399 /* DaySeventeen.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
+				FABF76071FB1AC4C0051827A /* DayTwentyThree.swift in Sources */,
 				FA24DEA41FAF0AE400AD22DB /* DayTwentyOne.swift in Sources */,
+				FABF76011FB1A96F0051827A /* DayTwentyTwo.swift in Sources */,
 				FAA8313B1FA402DF00DDBCA0 /* DayTen.swift in Sources */,
 				FAD6B9E91FA129CB006E36F0 /* DayEight.swift in Sources */,
 				FA17EF4C1FADA58400E0E8A3 /* DayTwenty.swift in Sources */,
@@ -242,6 +265,7 @@
 				FA2707C41FACA05A0037D399 /* DaySeventeenCalculator.swift in Sources */,
 				FAFE5D981FA22AC1008E9956 /* DayNine.swift in Sources */,
 				FA3631ED1F9777DD00D2DAE6 /* DayTwo.swift in Sources */,
+				FABF76051FB1A9C10051827A /* DayTwentyTwoTree.swift in Sources */,
 				FAA4A7B71FA5CA3D007A38C1 /* DayTwelwePerson.swift in Sources */,
 				FAA4A7C31FA5D864007A38C1 /* DayFourteenDifference.swift in Sources */,
 				FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */,
