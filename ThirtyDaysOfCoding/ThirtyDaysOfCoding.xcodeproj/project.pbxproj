@@ -24,6 +24,7 @@
 		FA4E73B31FB34A3D00A93933 /* DayTwentyFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E73B21FB34A3D00A93933 /* DayTwentyFour.swift */; };
 		FA4E73B51FB34A9700A93933 /* DayTwentyFourNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E73B41FB34A9700A93933 /* DayTwentyFourNode.swift */; };
 		FA4E73B71FB34AD100A93933 /* DayTwentyFourLinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA4E73B61FB34AD100A93933 /* DayTwentyFourLinkedList.swift */; };
+		FA52E7FF1FB63E240098F343 /* DayTwentyFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA52E7FE1FB63E240098F343 /* DayTwentyFive.swift */; };
 		FA5821A01F956F8300325935 /* DayOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA58219F1F956F8300325935 /* DayOne.swift */; };
 		FA7835681F98E9D800AE3182 /* DayFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835671F98E9D800AE3182 /* DayFour.swift */; };
 		FA78356A1F98EA2700AE3182 /* DayFourPerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7835691F98EA2700AE3182 /* DayFourPerson.swift */; };
@@ -82,6 +83,7 @@
 		FA4E73B21FB34A3D00A93933 /* DayTwentyFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyFour.swift; sourceTree = "<group>"; };
 		FA4E73B41FB34A9700A93933 /* DayTwentyFourNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyFourNode.swift; sourceTree = "<group>"; };
 		FA4E73B61FB34AD100A93933 /* DayTwentyFourLinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyFourLinkedList.swift; sourceTree = "<group>"; };
+		FA52E7FE1FB63E240098F343 /* DayTwentyFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayTwentyFive.swift; sourceTree = "<group>"; };
 		FA58219F1F956F8300325935 /* DayOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayOne.swift; sourceTree = "<group>"; };
 		FA7835671F98E9D800AE3182 /* DayFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFour.swift; sourceTree = "<group>"; };
 		FA7835691F98EA2700AE3182 /* DayFourPerson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayFourPerson.swift; sourceTree = "<group>"; };
@@ -181,6 +183,7 @@
 				FA4E73B21FB34A3D00A93933 /* DayTwentyFour.swift */,
 				FA4E73B41FB34A9700A93933 /* DayTwentyFourNode.swift */,
 				FA4E73B61FB34AD100A93933 /* DayTwentyFourLinkedList.swift */,
+				FA52E7FE1FB63E240098F343 /* DayTwentyFive.swift */,
 			);
 			path = ThirtyDaysOfCoding;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				FAA4A7BB1FA5D218007A38C1 /* DayThirteen.swift in Sources */,
 				FA363B2B1F95636300CD3D58 /* DayZero.swift in Sources */,
 				FA363B241F95627300CD3D58 /* main.swift in Sources */,
+				FA52E7FF1FB63E240098F343 /* DayTwentyFive.swift in Sources */,
 				FA8C13DC1FACA58000D80381 /* DayNineteen.swift in Sources */,
 				FA2707C21FACA04C0037D399 /* DaySeventeen.swift in Sources */,
 				FA5821A01F956F8300325935 /* DayOne.swift in Sources */,
